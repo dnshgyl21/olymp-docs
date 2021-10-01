@@ -1,1 +1,1 @@
-Docs on algorithms and data structures
+Docs on Algorithms and Data Structures
